@@ -1,0 +1,6 @@
+{
+  "name": "National Education Enrolment Observatory",
+  "description": "Executive analytics and comparative enrolment trends across higher education levels based on official NITI Aayog open government data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
